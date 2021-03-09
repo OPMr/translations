@@ -173,7 +173,7 @@
 			"es":"Acechador sangriento",
 			"ja":"ブラッドストーカー",
 			"zh":"血蛛",
-			"fr":"Bloodstalker"
+			"fr":"buveur de sang"
 		}
 	},
 	"brontosaurus":{
@@ -1099,7 +1099,7 @@
 	"nameless":{
 		"name_t":{
 			"da":"Navnløs",
-			"fr":"Nameless",
+			"fr":"Sans nom",
 			"es":"Sin nombre",
 			"it":"Innominabile",
 			"ja":"ネームレス",
@@ -1134,7 +1134,7 @@
 	"overseer":{
 		"name_t":{
 			"da":"Opsynsmand",
-			"fr":"Overseer",
+			"fr":"surveillant",
 			"es":"Supervisor",
 			"it":"Sorvegliante",
 			"ja":"監視者",
@@ -1185,7 +1185,7 @@
 	},
 	"paracer":{
 		"name_t":{
-			"es":"Paracerathérium",
+			"fr":"Paracerathérium",
 			"it":"Paraceraterio",
 			"ja":"パラケラテリウム",
 			"ko":"파라케라테리움",
@@ -1569,7 +1569,7 @@
 		"name_t":{
 			"da":"Tornet Drage",
 			"es":"Diablo espinoso",
-			"fr":"Lézard Epineux",
+			"fr":"Dragon Epineux",
 			"it":"Drago spinoso",
 			"ja":"モロクトカゲ",
 			"ko":"가시드래곤",
